@@ -7,10 +7,11 @@ The National Health and Nutrition Examination Survey (NHANES) collects comprehen
 
 This project utilizes data from 14 years (2005-2018) to identify potential biomarkers of depression based on PHQ-9 scores and blood/urine samples. The basic outline of this project is as follows:
 
-    -Reduce the dataset to subjects with complete lab tests and PHQ-9 questionnaire responses (7,465 subjects)
+    -Reduce the dataset to subjects with complete lab tests and PHQ-9 questionnaire responses
+    (7,465 subjects)
     -Perform EDA on all biomarkers to visualize relationships with PHQ-9 score
-    -Use a multivariable ordinal logistic regression to identify markers that increase or decrease the odds of being 
-    depressed:
+    -Use a multivariable ordinal logistic regression to identify markers that increase or 
+    decrease the odds of being depressed:
   
 ![image](https://user-images.githubusercontent.com/89553765/195698027-075fb6b8-0175-45d4-929d-78d8cc5f7f84.png)
 
