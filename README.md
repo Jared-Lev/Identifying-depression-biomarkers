@@ -19,4 +19,4 @@ The main conclusions of this project are as follows:
     -Gender is the single largest predictor of depression: being female increases your chances of being depressed by over 60%
     -There is clearly a relationship between inflammation and depression, as higher levels of white blood cells, increased 
     red cell distribution width and hematocrit levels are increase one's odds of being depressed. 
-    -Higher levels of albumin, a marker for overall health, substantially decrease one's odds of being depressed by over 80%.
+    -Higher levels of albumin, a marker for overall health, decrease one's odds of being depressed by over 80%.
