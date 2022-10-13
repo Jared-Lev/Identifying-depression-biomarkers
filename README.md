@@ -9,12 +9,14 @@ This project utilizes data from 14 years (2005-2018) to identify potential bioma
 
     -Reduce the dataset to subjects with complete lab tests and PHQ-9 questionnaire responses
     -Perform EDA on all biomarkers to visualize relationships with PHQ-9 score
-    -Use a multivariable ordinal logistic regression to identify markers that increase or decrease the (log)odds of being depressed:
+    -Use a multivariable ordinal logistic regression to identify markers that increase or decrease the (log)odds of being 
+    depressed:
   
 ![image](https://user-images.githubusercontent.com/89553765/195698027-075fb6b8-0175-45d4-929d-78d8cc5f7f84.png)
 
 The main conclusions of this project are as follows:
 
     -Gender is the single largest predictor of depression: being female increases your chances of being depressed by over 60%
-    -There is clearly a relationship between inflammation and depression, as higher levels of white blood cells, increased red cell distribution width and hematocrit levels are increase one's odds of being depressed. 
+    -There is clearly a relationship between inflammation and depression, as higher levels of white blood cells, increased 
+    red cell distribution width and hematocrit levels are increase one's odds of being depressed. 
     -Higher levels of albumin, a marker for overall health, substantially decrease one's odds of being depressed by over 80%.
