@@ -11,3 +11,4 @@ This project utilizes data from 14 years (2005-2018) to identify potential bioma
   -Perform EDA on all biomarkers to visualize relationships with PHQ-9 score
   -Use a multivariable ordinal logistic regression to identify markers that increase or decrease the odds of being depressed:
 
+![image](https://user-images.githubusercontent.com/89553765/195697909-7105c57a-9a61-4f50-9b89-7291a54d44ec.png)
