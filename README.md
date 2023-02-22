@@ -32,7 +32,7 @@ And the coefficients of all of the variables showing the strongest trends with P
 
 ![image](https://user-images.githubusercontent.com/89553765/220649900-7d7a5a18-8b05-4b7e-b692-9bfc4cc16e0e.png)
 
-To deterine whether common lab test features could be used to predict PHQ-9 score, I built a random forest regression model using all 40 variables as features. Examining the model's performance metrics reveals that it explains a minimal amount of variance, with and R2 value of 0.008. Moreover, the model has worse predictive utility than a constant model using the mean PHQ-9 score.
+To deterine whether common lab test features could be used to predict PHQ-9 score, I eliminated redundant/collinear variable from the dataset and used the remaining 40 to build a random forest regression model. Examining the model's performance metrics reveals that it explains a minimal amount of variance, with and R2 value of 0.008. Moreover, the model has worse predictive utility than a constant model using the mean PHQ-9 score.
 
 ![image](https://user-images.githubusercontent.com/89553765/220473796-eca2d3a9-5056-4cfb-9dbd-e6822aa5eac5.png)
 
