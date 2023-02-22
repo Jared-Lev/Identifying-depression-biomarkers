@@ -24,11 +24,11 @@ The variables span major blood cell types, and a variety of metabolic markers:
 
 ![image](https://user-images.githubusercontent.com/89553765/220649139-8a5b0ac2-8a0f-4e30-a0a1-af2db1c1126d.png)
 
-Without exception, the variables showed very weak or no correlation with PHQ-9 score. The following are some of the variables that showed the strongest correlations, as quantified by Kendall's tau, a non-parametric  correlation coefficient:
+Without exception, the variables showed very weak or no correlation with PHQ-9 score. The following are some of the variables that showed the strongest correlations:
 
 ![image](https://user-images.githubusercontent.com/89553765/220647284-92d187fb-2134-4b50-ae74-e8d32a50c1bc.png)
 
-And the coefficients of all of the variables showing the strongest trends with PHQ-9 score: 
+And the coefficients of all of the variables showing the strongest trends with PHQ-9 score, as quantified by Kendall's tau, a non-parametric  correlation coefficient: 
 
 ![image](https://user-images.githubusercontent.com/89553765/220649900-7d7a5a18-8b05-4b7e-b692-9bfc4cc16e0e.png)
 
