@@ -28,7 +28,7 @@ Without exception, the variables showed very weak or no correlation with PHQ-9 s
 
 ![image](https://user-images.githubusercontent.com/89553765/220647284-92d187fb-2134-4b50-ae74-e8d32a50c1bc.png)
 
-And the coefficients of all of the variables showing the strongest trends with PHQ-9 score, as quantified by Kendall's tau, a non-parametric  correlation coefficient: 
+And the coefficients of all of the variables showing the strongest trends with PHQ-9 score as quantified by Kendall's tau, a non-parametric  correlation coefficient: 
 
 ![image](https://user-images.githubusercontent.com/89553765/220649900-7d7a5a18-8b05-4b7e-b692-9bfc4cc16e0e.png)
 
