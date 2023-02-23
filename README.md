@@ -16,7 +16,7 @@ This project utilizes data from 14 years (2005-2018) to 1) identify potential bi
 
 RESULTS
 
-The distribution of PHQ-9 scores from 19,268 subjects is heavily right-skewed:
+The distribution of PHQ-9 scores from 19,268 subjects is heavily right-skewed, indicating that the vast majority of subjects did not have depression:
 
 ![image](https://user-images.githubusercontent.com/89553765/219124972-a907fbb3-e2f1-448b-a60a-3fa70a9bddf0.png)
 
