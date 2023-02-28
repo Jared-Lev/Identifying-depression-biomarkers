@@ -41,7 +41,7 @@ To determine whether common lab test features could be used to predict PHQ-9 sco
 
 CONCLUSION
 
-1) Although the correlations were weak, elevated white blood cell counts, platelet counts and c-reactive peptide suggest that inflammation may have a role in depression
+1) Although the correlations were weak, elevated white blood cell counts, platelet counts and c-reactive peptide suggest that inflammation may be an indicator of depression
 2) Common blood and urine markers are insufficient for predicting PHQ-9 score. 
 3) Inclusion of demographic, socioeconomic and behavioral data are likely necessary to build an accurate predictive model.
 
